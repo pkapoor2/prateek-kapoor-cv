@@ -4,23 +4,23 @@ title: Prateek Kapoor - Resume
 ---
 
 <div style="text-align: center;">
-    <h1>Prateek Kapoor</h1>
-    <p><em>System Test Engineer for Cloud Services</em></p>
+    <strong>Prateek Kapoor</strong><br>
+    <em>System Test Engineer for Cloud Services</em>
 </div>
 
-## Contact Information
+# Contact Information
 
-<div>
-    <p><strong>Address:</strong> Alameda, CA</p>
-    <p><strong>Phone:</strong> (607) 261-2221</p>
-    <p><strong>Email:</strong> <a href="mailto:prateek.kapoor83@gmail.com">prateek.kapoor83@gmail.com</a></p>
-    <p><strong>LinkedIn:</strong> prateek-kapoor83</p>
-    <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?hl=en&user=I-RSA4gAAAAJ">https://scholar.google.com/citations?hl=en&user=I-RSA4gAAAAJ</a></p>
-</div>
+<table>
+    <tr><td><strong>Address</strong></td><td>Alameda, CA</td></tr>
+    <tr><td><strong>Phone</strong></td><td>(607) 261-2221</td></tr>
+    <tr><td><strong>Email</strong></td><td>prateek.kapoor83@gmail.com</td></tr>
+    <tr><td><strong>LinkedIn</strong></td><td>prateek-kapoor83</td></tr>
+    <tr><td><strong>Google Scholar</strong></td><td><a href="https://scholar.google.com/citations?hl=en&user=I-RSA4gAAAAJ">Google Scholar</a></td></tr>
+</table>
 
-## Skills
+# Skills
 
-### Technical Skills
+## Technical Skills
 
 - Automation Tools: Cypress, PyTest
 - Cloud Platforms: AWS, Azure, Google Cloud Platform
@@ -32,64 +32,107 @@ title: Prateek Kapoor - Resume
 - Monitoring and Logging: ELK Stack, Prometheus, Humio, Pagerduty
 - Database Systems: MySQL, PostgreSQL
 
-### Other Skills
+## Other Skills
 
 - Project Management: Agile/Scrum, Confluence, Jira, Stash, Git
 - Domain Knowledge: Networking, Wireless, SDWAN, Security
 
-## Patents/Publications
+# Patents/Publications
 
 - **Granted:** US Patent 9655038, US Patent 10021102, US Patent 10212653, US Patent 10291578, US Patent 10673807, US Patent 10812484.
 - **Publication:** IEEE VTC2018-Fall, Chicago: "Detecting and Mitigating Spoofing Attack against an Automotive Radar".
 
-## Professional Experience
+# Professional Experience
 
-### HPE Aruba Networking
+## HPE Aruba Networking
 
-#### System Test Manager for Cloud Services, San Jose, USA (Feb 2022 - Now)
+### System Test Manager for Cloud Services, San Jose, USA (Feb 2022 - Now)
 
 - **Automation Leadership:**
     - Led the automation effort to establish a Pytest-based automation framework from scratch and integrated it with Jenkins for CI/CD.
 - **Project and Team Management:**
     - Managed project teams responsible for qualifying SD-WAN solutions across multiple releases.
-    - Drove end-to-end test strategy for Cloud-based services including API endpoints and multi-cloud environments.
-    - Coordinated with cross-functional teams for seamless feature delivery in multi-cloud setups.
+    - Led and managed agile Scrum teams, breaking down 6-month release cycles to monthly deliverables, ensuring high-quality deliverables with predictable timelines.
+- **Skills Utilized:**
+    - Agile, Scrum, Sprint tracker, People Management, Program Management, Confluence, Jira, Stash, Jenkins.
 
-### HPE Aruba Networking
+### System Test Engineer for Cloud Services, San Jose, USA (Feb 2018 - Feb 2022)
 
-#### Lead Engineer for SD-WAN, San Jose, USA (Jan 2020 - Jan 2022)
+- **Cross-Functional Collaboration:**
+    - Collaborated with cross-functional teams to understand requirements and system architecture for cloud services.
+- **Test Planning and Automation:**
+    - Developed and executed comprehensive test plans for new features and enhancements, ensuring high-quality releases.
+    - Automated repetitive testing tasks, resulting in a 90% reduction in manual efforts.
+- **Design and Implementation:**
+    - Part of the design team delivering various SDWAN features, including DPI, DPS, Virtual GW on on-prem (ESXI, KVM), and CSPs (AWS, Azure, and GCP).
+- **Additional Responsibilities:**
+    - Qualified Apps running on an ACP system orchestrated via Kubernetes.
+    - Implemented chaos monkey and supported customer escalations.
+- **Skills Utilized:**
+    - PyTest, GraphQL, Rest, Cypress, L2-L3 networking, Firewall, SDWAN, Cloud Computing, Confluence, Jira, Stash, Git, Jenkins.
 
-- **SD-WAN Solution Delivery:**
-    - Spearheaded testing and qualification efforts for SD-WAN solutions.
-    - Developed automated testing strategies for SD-WAN features across multiple cloud environments.
-- **API Endpoint Testing:**
-    - Designed and implemented test suites for API endpoints using Rest and GraphQL.
-- **Collaboration and Leadership:**
-    - Worked closely with product management and engineering teams to define requirements and deliver robust solutions.
+### Wireless Test Engineer, Bangalore, India (Oct 2013 - Aug 2016)
 
-### Infosys Limited
+- **Automation Framework and Technical Leadership:**
+    - Designed/Implemented an Automation Framework to test a Distributed System.
+    - Subject matter expert within the Instant team for WLAN, TCL, L2-L3 protocols, Vulnerability testing, Firewall, VPN, and Automation.
+- **Team Leadership and Patent Contributions:**
+    - Shown technical leadership for solving complex programming tasks and coming up with innovative solutions.
+    - Led the test Automation initiative for the IAP team in Aruba, increasing the Automation test coverage of CFTs to 80%.
+    - Granted 6 patents in the areas of networked systems, distributed systems, and wireless.
+- **System Validation and Automation Strategy:**
+    - System validation, Automation test strategy, and Automation test case development of the 802.11 suite of protocols, Enterprise Wireless LAN Solutions, and Pre-Certification testing for WFA test suites.
+- **Skills Utilized:**
+    - TCL, SQL, Perl, 802.11, L2-L3 protocols, Perforce, Spirent.
 
-#### Lead Engineer, Infosys, Bangalore, India (Jun 2014 - Dec 2019)
+## Calsoft
 
-- **GSM Network Integration:**
-    - Led a team responsible for the integration and testing of GSM 2G and 2.5G networks.
-    - Implemented automated testing frameworks to improve efficiency and reduce manual effort.
-- **Client Engagement:**
-    - Engaged with clients for requirement analysis and proposal discussions for feature implementation.
+### Module Lead, Bangalore, India (Nov 2012 - Oct 2013)
+
+- **Agile Development and Collaboration:**
+    - Actively participated in the agile development process, providing continuous feedback to enhance product quality.
+- **Regression Testing:**
+    - Conducted extensive regression testing for software updates and patches.
+- **Automated Testing and Efficiency Improvement:**
+    - Implemented automated testing for critical workflows, significantly improving overall testing efficiency.
+    - Added support for CLI configuration mode in the automation framework, saving 100 man-hours of re-scripting.
+- **Feature Development and Recognition:**
+    - Worked on various features, including L2 GRE, Hot Spot 2.0 certification (received accolades), sigma framework, RAP-ng [IAP + VPN], ACL [Firewall], and PPPoE.
+
+## Sandvine
+
+### Quality Assurance Engineer, Bangalore, India (May 2012 - Nov 2012)
+
+- **QA Environment and Automation:**
+    - Worked in a QA environment with high availability of resources, leveraging Infrastructure as a Service (IaaS) and an iTCL-based automation framework achieving a 95% automation level.
+    - Automated several QA activities using the iTCL-based framework.
+- **Testing and Policy Engine:**
+    - Performed regression and functional testing of the Policy engine, providing Policy and Charging Enforcement Function (PCEF) functionalities to the solution/product.
+    - Tested networking requirements such as 802.1ad, asymmetric VLAN, and customer-specific features.
+- **Innovation and Idea Generation:**
+    - Became part of the New Idea Generation forum, actively contributing to the exploration of new solutions and product ideas.
+- **Skills Used:**
+    - iTCL, IaaS, L2/L3 Networking, DPI, Policy Enforcement.
+
+## Aricent Group
+
+### Senior Engineer Testing, Gurgaon, India (Jul 2007 - Jan 2011)
+
+- **Testing and Planning:**
+    - Developed test plans for system integration, functional testing, and performance testing based on requirement specifications.
+    - Configured test beds (both real and emulator) for system integration, functional, load, and performance testing.
+- **Client Interaction and Feature Implementation:**
+    - Participated in requirement analysis and proposal discussions with clients for feature implementation.
     - Conducted end-to-end CS call integration for packet Abis in ETP-BSC and BSC-ETP-PCU.
+- **Network Configuration and Protocol Testing:**
+    - Configured a new network topology in BSC using CISCO 3750 switches.
+    - Conducted protocol-level testing for DHCP, 802.1, MSTP, and OSPF.
+- **Automation Framework:**
+    - Created an automation framework to enable the development of robust release/project-independent testing suites.
+- **Skills Used:**
+    - C, GSM 2G, GSM 2.5G (Edge), L2/L3 Networking.
 
-### Network Configuration and Protocol Testing
-
-- Configured a new network topology in BSC using CISCO 3750 switches.
-- Conducted protocol-level testing for DHCP, 802.1, MSTP, and OSPF.
-
-### Automation Framework
-
-- Created an automation framework to enable the development of robust release/project-independent testing suites.
-
-- **Skills Used:** C, GSM 2G, GSM 2.5G (Edge), L2/L3 Networking.
-
-#### Layer 3 Global Support for Nokia, Gurgaon, India (Jan 2011 - May 2012)
+### Layer 3 Global Support for Nokia, Gurgaon, India (Jan 2011 - May 2012)
 
 - **Customer Support:**
     - Resolved PS core-specific customer queries.
@@ -101,13 +144,14 @@ title: Prateek Kapoor - Resume
     - Conducted release testing of the ETPx product line and MC, an all IP-based standalone BSC.
 - **Automation and Process Optimization:**
     - Automated processes related to KPI optimization, log analysis, and switch monitoring/configuration.
-- **Skills Used:** C, VB, GSM 2G, GSM 2.5G (Edge), L2/L3 Networking.
+- **Skills Used:**
+    - C, VB, GSM 2G, GSM 2.5G (Edge), L2/L3 Networking.
 
-## Education
+# Education
 
-**MS in CS**  
+**MS in CS**<br>
 *Binghamton University, New York, USA (Aug 2016 - Dec 2017)*
 
 - Research Assistant from Jan 2017 - Dec 2017 under Professor KD Kang.
-- Developed and executed research ideas in the fields of Machine learning, IoT, TV White-space, Signal Processing, Real-Time Systems.
+- Developed and executed research ideas in the field of Machine learning, IoT, TV White-space, Signal Processing, Real-Time Systems.
 - **Thesis:** "Detecting and Mitigating Spoofing Attack against an Automotive Radar".
