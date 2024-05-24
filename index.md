@@ -21,7 +21,7 @@ title: Prateek Kapoor - Resume
   <input type="radio" name="tabs" id="Skills" checked>
   <label for="Skills">Skills</label>
   <div class="tab-content" id="skills-content">
-
+	<div class="markdown">
 	## Technical Skills
 
 	- Automation Tools: Cypress, PyTest
@@ -38,6 +38,7 @@ title: Prateek Kapoor - Resume
 
 	- Project Management: Agile/Scrum, Confluence, Jira, Stash, Git
 	- Domain Knowledge: Networking, Wireless, SDWAN, Security
+	</div>
   </div>
 
   <input type="radio" name="tabs" id="Patents/Publications">
