@@ -21,7 +21,7 @@ title: Prateek Kapoor - Resume
   <input type="radio" name="tabs" id="Skills" checked>
   <label for="Skills">Skills</label>
   <div class="tab-content" id="skills-content">
-	<div class="markdown">
+	 <div style="white-space: pre-wrap;">
 ## Technical Skills
 
 - Automation Tools: Cypress, PyTest
