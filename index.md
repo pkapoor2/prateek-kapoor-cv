@@ -2,6 +2,10 @@
 layout: default
 title: Prateek Kapoor - Resume
 ---
+<div style="text-align: center;">
+    <strong>Prateek Kapoor</strong><br>
+    <em>System Test Engineer for Cloud Services</em>
+</div>
 
 # Contact Information
 
@@ -190,12 +194,6 @@ title: Prateek Kapoor - Resume
     display: block;
   }
 </style>
-
-
-<div style="text-align: center;">
-    <strong>Prateek Kapoor</strong><br>
-    <em>System Test Engineer for Cloud Services</em>
-</div>
 
 
 
