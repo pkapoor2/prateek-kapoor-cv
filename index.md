@@ -3,22 +3,20 @@ layout: default
 title: Prateek Kapoor - Resume
 ---
 
-<div style="text-align: center;">
-    <strong>Prateek Kapoor</strong><br>
-    <em>System Test Engineer for Cloud Services</em>
-</div>
-
 # Contact Information
 
 <table>
     <tr><td><strong>Address</strong></td><td>Alameda, CA</td></tr>
     <tr><td><strong>Phone</strong></td><td>(607) 261-2221</td></tr>
     <tr><td><strong>Email</strong></td><td>prateek.kapoor83@gmail.com</td></tr>
-    <tr><td><strong>LinkedIn</strong></td><td>prateek-kapoor83</td></tr>
+    <tr><td><strong>LinkedIn</strong></td><td><a href="https://www.linkedin.com/in/prateek-kapoor83/">LinkedIn</a></td></tr>
     <tr><td><strong>Google Scholar</strong></td><td><a href="https://scholar.google.com/citations?hl=en&user=I-RSA4gAAAAJ">Google Scholar</a></td></tr>
 </table>
 
-# Skills
+<div class="tabs">
+  <input type="radio" name="tabs" id="Skills" checked>
+  <label for="Skills">Skills</label>
+  <div class="tab-content">
 
 ## Technical Skills
 
@@ -36,13 +34,22 @@ title: Prateek Kapoor - Resume
 
 - Project Management: Agile/Scrum, Confluence, Jira, Stash, Git
 - Domain Knowledge: Networking, Wireless, SDWAN, Security
+  </div>
+
+  <input type="radio" name="tabs" id="Patents/Publications">
+  <label for="Patents/Publications">Patents/Publications</label>
+  <div class="tab-content">
 
 # Patents/Publications
 
 - **Granted:** US Patent 9655038, US Patent 10021102, US Patent 10212653, US Patent 10291578, US Patent 10673807, US Patent 10812484.
 - **Publication:** IEEE VTC2018-Fall, Chicago: "Detecting and Mitigating Spoofing Attack against an Automotive Radar".
 
-# Professional Experience
+  </div>
+
+  <input type="radio" name="tabs" id="Professional Experience">
+  <label for="Professional Experience">Professional Experience</label>
+  <div class="tab-content">
 
 ## HPE Aruba Networking
 
@@ -146,8 +153,10 @@ title: Prateek Kapoor - Resume
     - Automated processes related to KPI optimization, log analysis, and switch monitoring/configuration.
 - **Skills Used:**
     - C, VB, GSM 2G, GSM 2.5G (Edge), L2/L3 Networking.
-
-# Education
+  </div>
+  <input type="radio" name="tabs" id="Education">
+  <label for="Education">Education</label>
+  <div class="tab-content">
 
 **MS in CS**<br>
 *Binghamton University, New York, USA (Aug 2016 - Dec 2017)*
@@ -155,3 +164,38 @@ title: Prateek Kapoor - Resume
 - Research Assistant from Jan 2017 - Dec 2017 under Professor KD Kang.
 - Developed and executed research ideas in the field of Machine learning, IoT, TV White-space, Signal Processing, Real-Time Systems.
 - **Thesis:** "Detecting and Mitigating Spoofing Attack against an Automotive Radar".
+  </div>
+
+</div>
+
+<style>
+  .tabs input[type="radio"] {
+    display: none;
+  }
+  .tabs label {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #eee;
+    cursor: pointer;
+  }
+  .tabs .tab-content {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  .tabs input[type="radio"]:checked + label {
+    background: #ccc;
+  }
+  .tabs input[type="radio"]:checked + label + .tab-content {
+    display: block;
+  }
+</style>
+
+
+<div style="text-align: center;">
+    <strong>Prateek Kapoor</strong><br>
+    <em>System Test Engineer for Cloud Services</em>
+</div>
+
+
+
