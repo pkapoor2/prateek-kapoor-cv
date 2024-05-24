@@ -22,22 +22,22 @@ title: Prateek Kapoor - Resume
   <label for="Skills">Skills</label>
   <div class="tab-content" id="skills-content">
 	<div class="markdown">
-	## Technical Skills
+## Technical Skills
 
-	- Automation Tools: Cypress, PyTest
-	- Cloud Platforms: AWS, Azure, Google Cloud Platform
-	- Scripting Languages: Python, Bash
-	- CI/CD: Jenkins
-	- Virtualization: Docker, Kubernetes
-	- API endpoints: Rest, GraphQL
-	- Traffic Generators: IXIA (IxNetwork, BreakingPoint)
-	- Monitoring and Logging: ELK Stack, Prometheus, Humio, Pagerduty
-	- Database Systems: MySQL, PostgreSQL
+- Automation Tools: Cypress, PyTest
+- Cloud Platforms: AWS, Azure, Google Cloud Platform
+- Scripting Languages: Python, Bash
+- CI/CD: Jenkins
+- Virtualization: Docker, Kubernetes
+- API endpoints: Rest, GraphQL
+- Traffic Generators: IXIA (IxNetwork, BreakingPoint)
+- Monitoring and Logging: ELK Stack, Prometheus, Humio, Pagerduty
+- Database Systems: MySQL, PostgreSQL
 
-	## Other Skills
+## Other Skills
 
-	- Project Management: Agile/Scrum, Confluence, Jira, Stash, Git
-	- Domain Knowledge: Networking, Wireless, SDWAN, Security
+- Project Management: Agile/Scrum, Confluence, Jira, Stash, Git
+- Domain Knowledge: Networking, Wireless, SDWAN, Security
 	</div>
   </div>
 
